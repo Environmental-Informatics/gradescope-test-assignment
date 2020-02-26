@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 # CHANGE THESE FOR YOUR REPO!
-GITHUB_REPO='git@github.com:Environmental-Informatics/assignment-01.git'
-REPO_NAME="assignment-01"
+GITHUB_REPO='git@github.com:Environmental-Informatics/gradescope-test-assignment.git'
+REPO_NAME="gradescope-test-assignment"
 
 
 # input the assignment number and the file that students have to fill out
