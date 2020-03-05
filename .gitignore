@@ -59,6 +59,9 @@ Temporary Items
 *.zip
 *.pyc
 
+# Do not include private key in GitHub
+deploy_key
+
 # ignore files in the Depreciated directory
 Depreciated/
 
